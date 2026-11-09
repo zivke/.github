@@ -1,0 +1,7 @@
+# Default funding links for all repositories under github.com/zivke
+# that don't have their own FUNDING.yml.
+
+patreon: zivke
+custom:
+  - https://paypal.me/zivke85
+  - https://github.com/zivke/.github/blob/main/DONATE.md
